@@ -1,6 +1,6 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_name: sleeping_gods_notes # Change this to your site name
+site_description: Notes for a Sleeping Gods Campaign
+site_url: https://bheiskell.github.io/sleeping-gods-notes # Change this to your site URL
 
 theme:
     name: 'material'
